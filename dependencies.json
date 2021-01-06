@@ -1,0 +1,18 @@
+{
+  "config.zip": {
+    "MD5": "e1f7334572197dd18e327084232df00c",
+    "Download": "https://github.com/sbyt3/LazySharpNeverDie/raw/master/config.zip"
+  },
+  "LazySharp.dll": {
+    "MD5": "d75aa60002b46bc2bd650c0472f57ea8",
+    "Download": "https://github.com/sbyt3/LazySharpNeverDie/raw/master/LazySharp.dll"
+  },
+  "Matrix.dll": {
+    "MD5": "08ab6b6d1cd8b6858f3b2d7c953fb0c0",
+    "Download": "https://github.com/sbyt3/LazySharpNeverDie/raw/master/Matrix.dll"
+  },
+  "vcruntime140.dll": {
+    "MD5": "975926ab11f0827cd87dbf0661350149",
+    "Download": "https://github.com/sbyt3/LazySharpNeverDie/raw/master/vcruntime140.dll"
+  }
+}
